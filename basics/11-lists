@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lat /holbertonschool-shell/basics/ /holbertonschool-shell/ /boot
+ls -lat /holbertonschool-shell/basics /holbertonschool-shell /boot
